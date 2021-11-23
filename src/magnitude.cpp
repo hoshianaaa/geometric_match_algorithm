@@ -1,3 +1,5 @@
+//(参考元: https://cppsecrets.com/users/168511510411111711412197115105110104975764103109971051084699111109/C00-OpenCV-cvmagnitude.php)
+
 #include<opencv2/opencv.hpp> 
 #include<iostream>
 

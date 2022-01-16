@@ -31,3 +31,9 @@ add_executable(sobel1 src/sobel1.cpp)
 target_link_libraries(sobel1
   ${OpenCV_LIBRARIES}
 )
+
+add_executable(magnitude src/magnitude.cpp)
+target_link_libraries(magnitude
+  ${OpenCV_LIBRARIES}
+)
+
